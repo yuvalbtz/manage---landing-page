@@ -1,0 +1,62 @@
+.avatarImage,
+.avatarImage::before{
+    position: relative !important;
+    inset: 0;
+    transform: translateY(-70%);
+    width: 60px !important;
+    height: 60px !important;
+    margin-inline: auto !important;
+    vertical-align: unset !important;
+  
+}
+
+
+
+
+.slick-list{
+    overflow-x: hidden;
+    padding-block: 2rem;
+    
+    
+}
+
+.slick-track{
+    display: flex !important;
+    column-gap: 2rem;
+    
+}
+
+
+.slick-slide{
+    background-color:  var(--clr-neutral-200);
+    padding: 1rem;
+   
+  
+   
+}
+
+
+
+
+.slick-dots{
+    position: relative;
+    transform: translateY(-200%);
+    top: 100%;
+   
+}
+
+.slick-dots li button{
+    color:#f25f3a81 ;
+    
+}
+
+.slick-dots li button:before{
+    color: #F25F3A !important;
+    font-size: 12px;
+}
+
+
+
+.text-slide-ajustment h3{ 
+    transform: translateY(-80%);
+}

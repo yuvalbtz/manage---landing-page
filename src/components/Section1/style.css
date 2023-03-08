@@ -1,0 +1,9 @@
+
+@media (max-width:50em){
+    .grid-position-section1{
+      display: flex;
+      flex-direction: column-reverse;
+    }
+}
+
+

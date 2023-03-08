@@ -1,0 +1,38 @@
+form input{
+    border: 0;
+    font-size: var(--fs-button);
+    border-radius: 100vmax;
+    padding:1em 1.75em;
+    margin-right: 0.5em;
+    font-family: var(--ff-body);
+    
+}
+
+
+form button{
+    text-transform: uppercase;
+}
+
+
+.footer-column-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.copy-right{
+    color: grey;
+    font-size: var(--size-300);
+    text-align: end;
+
+}
+
+@media (max-width:50em){
+    .copy-right{
+      position: relative;
+      transform: translateY(250px);
+      text-align: center;
+
+      
+    }
+}
