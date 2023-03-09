@@ -6,6 +6,10 @@
 
 #### the goal for this project was to get the most accurate results as the images below.
 
+
+https://user-images.githubusercontent.com/64732709/223880835-0f3ca008-aa28-436b-9432-3f0c88a37a46.mp4
+
+
 ![desktop-design](https://user-images.githubusercontent.com/64732709/223865204-68fbc793-b10e-4ca2-ab10-a22dc6a62be2.jpg)
 ![desktop-preview](https://user-images.githubusercontent.com/64732709/223865205-ab68e3a2-1377-443c-83ae-454242138473.jpg)
 ![active-states](https://user-images.githubusercontent.com/64732709/223865200-c160bb5c-9ee1-4156-b8c3-db28f1d5ec03.jpg)
